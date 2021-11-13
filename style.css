@@ -1,0 +1,25 @@
+body{
+	background-color:rgb(192,192,192);
+}
+button{
+	margin: 30px;
+	
+}
+
+.div1{
+	bottom:0;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+.text{
+	margin: 50px;
+}
+
+.div2{
+	bottom:50;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
